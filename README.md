@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Security Operations · Cloud Security · Vulnerability Management</b><br/>
-  <sub>Lahore, Pakistan · PKT (UTC+5) · open to remote</sub>
+  <sub>Lahore, Pakistan · PKT (UTC+5) · open to UAE / GCC relocation or fully remote</sub>
 </p>
 
 <p align="center">
@@ -79,22 +79,6 @@ Currently running live security administration for a small business — MFA, cre
 
 ---
 
-### Activity
-
-<!-- These cards are generated live from the GitHub API. If one renders blank it is
-     upstream rate limiting, not a broken link - it recovers on its own. -->
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rummanaqeel&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rummanaqeel&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rummanaqeel&theme=github-compact&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
----
-
-<p align="center">
-  <sub>Open to SOC Analyst, Cloud Security, and Vulnerability Management roles — remote or Lahore-based.</sub>
+  <sub>Open to SOC Analyst, Cloud Security, and Vulnerability Management roles — UAE / GCC relocation or fully remote.</sub>
 </p>
