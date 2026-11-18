@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Security Operations · Cloud Security · Vulnerability Management</b><br/>
-  <sub>Lahore, Pakistan · PKT (UTC+5) · open to UAE / GCC relocation or fully remote</sub>
+  <sub>Lahore, Pakistan · PKT (UTC+5) · open to relocation or fully remote</sub>
 </p>
 
 <p align="center">
