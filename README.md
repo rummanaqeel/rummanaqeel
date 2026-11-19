@@ -17,7 +17,7 @@
 
 I build and break defensive infrastructure to learn how it actually fails. My labs are AWS and Kubernetes environments where I deploy the control, attack it, catch the attack, then document what the detection missed.
 
-Currently running live security administration for a small business — MFA, credential management, and SPF/DKIM/DMARC email authentication on a production domain — while preparing for CompTIA Security+.
+Currently running live security administration for a small business: MFA, credential management, and SPF/DKIM/DMARC email authentication on a production domain. I'm also preparing for CompTIA Security+.
 
 ---
 
@@ -25,9 +25,10 @@ Currently running live security administration for a small business — MFA, cre
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| **[CloudSentinel: AWS Threat Detection and Auto-Remediation](https://github.com/rummanaqeel/cloudsentinel)** | Five CloudTrail detections mapped to MITRE ATT&CK, attack-tested with every alert under 60 s. Three Python Lambdas auto-fix an open security group, a new access key and a stopped trail in 3.7 to 5 s. Fully Terraform, costs cents a month. | `CloudTrail` `EventBridge` `Lambda` `SNS` `Terraform` |
 | **[Kubernetes Runtime Threat Detection](https://github.com/rummanaqeel/k8s-security-lab)** | Caught 4 live container attacks with eBPF syscall monitoring, mapped to MITRE ATT&CK T1059.004 and T1003.008. Zero-trust NetworkPolicy, least-privilege RBAC, CIS audit across 124 controls. | `Falco` `Trivy` `kube-bench` `K3s` `RBAC` |
 | **[AWS Vulnerability Lifecycle](https://github.com/rummanaqeel/aws-inspector-ec2-vulnerability-lab)** | Closed 100% of CRITICAL and HIGH findings on EC2; documented the 2 residual microcode CVEs as accepted risk with justification. Eliminated SSH entirely in favour of SSM Session Manager. | `Amazon Inspector` `SSM` `IAM` `ISO 27001` |
-| **[Log Parser & SOC Triage Simulator](https://github.com/rummanaqeel/LogParserProject)** | Five detections — brute force, off-hours access, sudo misuse, cron persistence, HTTP enumeration — emitting severity-ranked alerts in SIEM field schema. Stdlib Python, no dependencies. | `Python` `Detection Engineering` `MITRE ATT&CK` |
+| **[Log Parser & SOC Triage Simulator](https://github.com/rummanaqeel/LogParserProject)** | Five detections (brute force, off-hours access, sudo misuse, cron persistence, HTTP enumeration) emitting severity-ranked alerts in SIEM field schema. Stdlib Python, no dependencies. | `Python` `Detection Engineering` `MITRE ATT&CK` |
 
 <!-- Add back once the scan scope is limited to owned infrastructure:
 | **[Vulnerability Scan Lab](https://github.com/rummanaqeel/vuln-scan-lab)** | Recon methodology and false-positive validation | `Masscan` `Nmap` |
@@ -80,5 +81,5 @@ Currently running live security administration for a small business — MFA, cre
 ---
 
 <p align="center">
-  <sub>Open to SOC Analyst, Cloud Security, and Vulnerability Management roles — UAE / GCC relocation or fully remote.</sub>
+  <sub>Open to SOC Analyst, Cloud Security, and Vulnerability Management roles · UAE / GCC relocation or fully remote.</sub>
 </p>
